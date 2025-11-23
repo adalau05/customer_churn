@@ -2,4 +2,4 @@
 
 click on ipynb files to view
 
-retails: customers and products classification
+Retails: customers and products classification
