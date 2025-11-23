@@ -1,3 +1,3 @@
 # data analysis projects:
 
-retails: customers, products
+retails: customers and products classification
