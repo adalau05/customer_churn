@@ -1,5 +1,5 @@
 # data analysis projects:
 
-click on ipynb files to view
+ipynb files contain
 
 Retails: customers and products classification
