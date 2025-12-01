@@ -1,17 +1,9 @@
 Data analysis projects
 
-Retail_customers_churn.ipynb: To classify customers into segments based on behaviors (Churn probabililty) 
+Retail_customers_churn.ipynb: To classify customers into segments based on behaviors 
 
-Retail_Products_Classification.ipynb: To classify retail products into 
+Retail_Products_Classification.ipynb: To classify retail products into Stars, Traffic Builders, Hidden Gems, Dead Stock
 
-Stars – High sales, high margin, high traffic
+fbt.ipynb: Frequently Bought Together” (FBT) analysis
 
-🚦 Traffic Builders – High traffic/units sold, low margin
-
-💎 Hidden Gems – Low traffic, high margin, strong profitability
-
-🪦 Dead Stock –using rules
-
-Frequently Bought Together” (FBT) analysis: fbt.ipynb
-
-Sales forecast: Sales_forecast.ipynb
+Sales_forecast.ipynb: Sales forecast: 
