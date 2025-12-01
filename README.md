@@ -6,4 +6,4 @@ Retail_Products_Classification.ipynb: To classify retail products into Stars, Tr
 
 fbt.ipynb: Frequently Bought Together” (FBT) analysis
 
-Sales_forecast.ipynb: Sales forecast: 
+Sales_forecast.ipynb: Sales forecast
