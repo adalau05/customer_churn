@@ -1,9 +1,11 @@
-Data analysis projects
+Objective: To classify retail products into four categories using rules:
 
-Retail_customers_churn.ipynb: To classify customers into segments based on behaviors 
+⭐ Stars – High sales, high margin, high traffic
 
-Retail_Products_Classification.ipynb: To classify retail products into Stars, Traffic Builders, Hidden Gems, Dead Stock
+🚦 Traffic Builders – High traffic/units sold, low margin
 
-fbt.ipynb: Frequently Bought Together” (FBT) analysis
+💎 Hidden Gems – Low traffic, high margin, strong profitability
 
-Sales_forecast.ipynb: Sales forecast
+🪦 Dead Stock – Low sales, low margin, low movement
+
+Classifying retail products into these four categories is useful because it turns raw sales and margin data into clear strategic actions. Each category represents a different role that products play in your assortment—and knowing that role helps you optimize pricing, promotion, inventory, and merchandising.
